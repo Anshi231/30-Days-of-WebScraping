@@ -1,2 +1,1 @@
-# 30-Days-of-WebScraping
-Master web scraping in 30 days—from basics to advanced projects. Unlock data, build skills, and turn the web into your playground. Let’s get started! 🚀
+Hello and welcome to 30 Days of Web Scraping, transforming raw webpages into meaningful insights! In the next month, we will cover everything there is to know about scraping the web starting from the most basic understanding of HTML and CSS to advanced skills such as scraping Dynamic Content & avoiding anti bot measures. Along the way, you’ll create real-world projects, scrape useful datasets, and acquire skills that enable you to make the internet your data playground. We are unlocking the web one scrape at a time! 🚀🌐

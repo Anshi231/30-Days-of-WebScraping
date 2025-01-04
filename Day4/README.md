@@ -8,6 +8,5 @@ Day 4 reminded me that documenting your learning is as important as the learning
 
 Medium Link - ["https://medium.com/@anshika23/web-scraping-basics-the-ultimate-cheat-sheet-398d98d7abbf"]
 
-Do let me know your thoughts on this!
 
 Thank You-

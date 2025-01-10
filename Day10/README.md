@@ -1,6 +1,6 @@
 Medium Link - ["https://medium.com/@anshika23/mastering-large-scale-web-scraping-a-complete-guide-to-distributed-scraping-with-scrapy-64607981bc38"]
 
-Today, I ventured into the fascinating world of distributed web scraping by penning an article titled “Mastering Large-Scale Web Scraping: Distributed Scraping with Scrapy.
+Today, I ventured into the fascinating world of distributed web scraping by penning an article titled **“Mastering Large-Scale Web Scraping: Distributed Scraping with Scrapy"**.
 
 Web scraping, when done extensively and in an advanced manner, can bring multiple challenges with an increased need for solutions that are scalable and efficient in nature. This article explores the basic principles of distributed scraping, and shows how to address the difficulties of large-scale data extraction.
 
